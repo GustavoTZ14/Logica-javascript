@@ -1,4 +1,4 @@
-# método preventDefault()
+### método preventDefault()
 
 Por padrão, quando o usuário clica sobre o botão submit de um formulário, uma 
 ação de envio dos dados desse form é executada. Isso faz um reload da página, e 
@@ -7,9 +7,9 @@ são perdidas. O método preventDefault() previne esse comportamento default do
 botão submit. Observe que ele é aplicado sobre um event passado por parâmetro (e)
 na construção da arrow function.  
 
-- Objeto - representa uma instância de uma classe.
-- Método - representa uma instrução ou um conjunto de instruções que executam uma tarefa.
-- Propriedade - representa uma característica (atributo) de um objeto.
+- Objeto --- representa uma instância de uma classe.
+- Método --- representa uma instrução ou um conjunto de instruções que executam uma tarefa.
+- Propriedade --- representa uma característica (atributo) de um objeto.
 
 No Exemplo 2.1, utilizamos o objeto (document), que a partir da execução do método 
 (querySelector()) pode referenciar as tags (form e h3) da página. Já a propriedade (value) é 
@@ -22,3 +22,10 @@ do editor. Observe que, ao iniciar a digitação de um comando, o Visual Studio 
 caixa com sugestões de comandos ou métodos contendo as letras já digitadas. Na Figura 2.4, é 
 apresentado o funcionamento desse recurso denominado IntelliSense na digitação do método 
 (addEventListener()). Para concluir a digitação do método, pressione __Tab__ ou __Enter__.
+
+Outro auxílio importante proporcionado pelo uso de um editor proficional como o Visual Studio Code 
+(neovim) refere-se à formatação (indentação) do documento. Esta também é considerada uma boa
+prática de programação, pois facilita a compreensão das estruturas utilizadas no programa --- seja
+no arquivo HTML, seja no programa JavaScript. O atalho do Visual Studio Code para aplicar essa 
+formatação aos comandos do seu programa é Alt + Shift + F.Você pode obter um resumo com as teclas
+de atalho disponíveis no editor acessando o menu Ajuda > Referência de Atalhos do teclado.
