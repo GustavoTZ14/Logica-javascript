@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capitulo_1/Introdução/1.6 Variáveis e constantes.md",
+                "file": "Capitulo_1/Introdução/1.9 Tipos de dados e conversoes de tipos.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d6e2e96524f78538",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capitulo_1/Introdução/1.6 Variáveis e constantes.md",
+                "file": "Capitulo_1/Introdução/1.9 Tipos de dados e conversoes de tipos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capitulo_1/Introdução/1.6 Variáveis e constantes.md",
+                "file": "Capitulo_1/Introdução/1.9 Tipos de dados e conversoes de tipos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capitulo_1/Introdução/1.6 Variáveis e constantes.md"
+                "file": "Capitulo_1/Introdução/1.9 Tipos de dados e conversoes de tipos.md"
               }
             }
           }
@@ -149,8 +148,8 @@
   },
   "active": "1fc1851b8d6cc915",
   "lastOpenFiles": [
-    "Capitulo_1/Introdução/1.5 Saída de dados com alert() e console.log().md",
     "Capitulo_1/Introdução/1.6 Variáveis e constantes.md",
+    "Capitulo_1/Introdução/1.5 Saída de dados com alert() e console.log().md",
     "Capitulo_1/Introdução/img/consoleLog.avif",
     "Capitulo_1/Introdução/img/ex1_1.avif",
     "Capitulo_1/Introdução/img/2024-06-08_11-53.avif",
